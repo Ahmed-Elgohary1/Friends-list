@@ -40,19 +40,19 @@
 
 ## 💻 Getting started
 ### *Requirements*
- - [Node.js](https://nodejs.org/en/)
- - [Yarn](https://classic.yarnpkg.com/)
- - [Bundle](https://bundler.io/)
- - [Rails](https://guides.rubyonrails.org/v5.0/getting_started.html)
+  - [Node.js](https://nodejs.org/en/)
+  - [Yarn](https://classic.yarnpkg.com/)
+  - [Bundle](https://bundler.io/)
+  - [Rails](https://guides.rubyonrails.org/v5.0/getting_started.html)
  
- *Clone the project and access the folder*
+- #### *Clone the project and access the folder*
  
  ```
  $ git clone https://github.com/Ahmed-Elgohary1/Friends-list.git
 
 $ cd Friends-list
 ```
-*Follow the steps below*
+- #### *Follow the steps below*
 
 ```
 # Install the dependencies
@@ -65,4 +65,23 @@ $ rails db:migrate
 # Run the web app
 $ rails s
 ```
+### 🤔 How to contribute
 
+#### *Follow the steps below*
+
+```
+# Clone your fork
+$ git clone https://github.com/Ahmed-Elgohary1/Friends-list.git
+
+$ cd Friends-list
+
+# Create a branch with your feature
+$ git checkout -b your-feature
+
+# Make the commit with your changes
+$ git commit -m 'feat: Your new feature'
+
+# Send the code to your remote branch
+$ git push origin your-feature
+```
+*After your pull request is merged, you can delete your branch*
